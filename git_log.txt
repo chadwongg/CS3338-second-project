@@ -1,0 +1,42 @@
+commit aec3d9807d4b09a9d8895dd18437b693c0dd97e6
+Author: chadwongg <chadsimportant@gmail.com>
+Date:   Wed Feb 4 18:21:33 2026 -0800
+
+    added favorite game
+
+commit 7481514704cba6422b2454d83c4dd18ffdd25f16
+Merge: 36d3e13 3dac173
+Author: chadwongg <chadsimportant@gmail.com>
+Date:   Wed Feb 4 18:17:38 2026 -0800
+
+    resolved merge conflict in index.html
+
+commit 3dac1737710b35a0ad9680731d8da179bc978d11
+Author: chadwongg <chadsimportant@gmail.com>
+Date:   Wed Feb 4 18:13:49 2026 -0800
+
+    added favorite food
+
+commit 36d3e13df80b05055907dac28363c3432ac759b8
+Author: chadwongg <chadsimportant@gmail.com>
+Date:   Wed Feb 4 18:05:21 2026 -0800
+
+    added favorite food div
+
+commit 06f40599bb8fd8dc25056b938cff688571a783c0
+Author: chadwongg <chadsimportant@gmail.com>
+Date:   Wed Feb 4 18:01:10 2026 -0800
+
+    README
+
+commit 7a50d4e46dd4315a590a70b59cf7432094866ef8
+Author: chadwongg <chadsimportant@gmail.com>
+Date:   Wed Feb 4 17:56:32 2026 -0800
+
+    this is the second project
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
